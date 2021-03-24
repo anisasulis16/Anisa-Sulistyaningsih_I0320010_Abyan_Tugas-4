@@ -4,8 +4,8 @@
 massa = 50
 #konversi lbs ke dalam kg
 a = massa * 0.45    #Berat maksimal bagasi dalam kg
-x = 110     #Kondisi Benda 1
-y = 49      #Kondisi Benda 2
+x = 110     #Kondisi Benda 1 dalam kg
+y = 49      #Kondisi Benda 2 dalam kg
 
 #memproses program berupa syarat berat maksimum yang diperbolehkan adalah a
 programpengecekan1 = x <= a
