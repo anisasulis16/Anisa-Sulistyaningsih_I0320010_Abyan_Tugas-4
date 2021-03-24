@@ -1,8 +1,9 @@
 #Soal no 3 Operator Comparison
 
-#berat Bagasi Pada Maskapai
-
-a = 50      #Berat maksimal bagasi di maskapai
+#berat Bagasi Pada Maskapai dalam lbs
+massa = 50
+#konversi lbs ke dalam kg
+a = massa * 0.45    #Berat maksimal bagasi dalam kg
 x = 110     #Kondisi Benda 1
 y = 49      #Kondisi Benda 2
 
